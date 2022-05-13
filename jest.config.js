@@ -9,5 +9,6 @@ module.exports = {
       "src/**/*.{ts,tsx,js,jsx}",
       "!src/**/*.d.ts",
       "!**/node_modules/**",
+      "!src/index.ts",
     ]
   }
