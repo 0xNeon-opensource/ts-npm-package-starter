@@ -1,7 +1,7 @@
 {
-  "name": "wonderwallet",
-  "version": "0.0.1",
-  "description": "Description here",
+  "name": "<YOUR_PROJECT_NAME>",
+  "version": "0.0.0",
+  "description": "<YOUR_PROJECT_DESCRIPTION>",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
@@ -26,15 +26,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/0xNeon-opensource/wonderwallet.git"
+    "url": "git+https://github.com/0xNeon-opensource/<YOUR_PROJECT_NAME>.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/0xNeon-opensource/wonderwallet/issues"
+    "url": "https://github.com/0xNeon-opensource/<YOUR_PROJECT_NAME>/issues"
   },
-  "homepage": "https://github.com/0xNeon-opensource/wonderwallet#readme",
+  "homepage": "https://github.com/0xNeon-opensource/<YOUR_PROJECT_NAME>#readme",
   "devDependencies": {
     "@types/jest": "^27.4.1",
     "jest": "^27.5.1",
